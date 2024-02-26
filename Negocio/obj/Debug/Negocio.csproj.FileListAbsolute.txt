@@ -1,0 +1,5 @@
+C:\Users\Memin\source\repos\PuntoDeVenta}\Negocio\bin\Debug\Negocio.dll
+C:\Users\Memin\source\repos\PuntoDeVenta}\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Memin\source\repos\PuntoDeVenta}\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Memin\source\repos\PuntoDeVenta}\Negocio\obj\Debug\Negocio.dll
+C:\Users\Memin\source\repos\PuntoDeVenta}\Negocio\obj\Debug\Negocio.pdb
